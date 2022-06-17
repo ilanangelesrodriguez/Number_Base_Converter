@@ -89,7 +89,6 @@ public class Conversor {
         }
         return out;
     }
-
     //Generalizamos el algoritmo de conversion
     public static String convertirASistemaNumerico(int numero, int base) {
         String salida = "";
