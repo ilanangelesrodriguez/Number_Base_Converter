@@ -1,5 +1,5 @@
-# Proyecto_Java
-Config files for my GitHub profile.
+# Number_Base_Converter
+Numerical converter to binary, octal, hexadecimal and BCD.
 ### Numerical Converter 
 
 This is a project developed for the Algorithms course at UNS. 🖥️
